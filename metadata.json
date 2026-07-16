@@ -1,0 +1,6 @@
+{
+  "name": "EyeRelax",
+  "description": "Reminds you to rest your eyes every 20 minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
